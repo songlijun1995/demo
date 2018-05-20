@@ -8,6 +8,8 @@ public class demo {
 		System.out.println("小学生");
 		System.out.println("小学生");
 		System.out.println("小学生");
+		System.out.println("小学生");
+		System.out.println("小学生");
 		System.out.println();
 		System.out.println();
 	}
